@@ -5,4 +5,13 @@ forth change
 fifth change
 
 six
+<<<<<<< HEAD
 °¡Èöµ©·´¿¹Èöµ©·¢
+=======
+asdasd
+asd
+sadadasdas
+
+
+asdassd
+>>>>>>> b8c75a4640b3f98e85b20bb6f63c5edf316c53ea
